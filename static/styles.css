@@ -11,12 +11,10 @@ body{
 }
 
 header{
-	background:#03A9F4;#35434a;
-	border-bottom:#448AFF 3px solid;
-	height:120px;
-	width:100%;
-	padding-top:30px;
 
+		background-color: #000000;
+		background-position: 100% 100%;
+		background-repeat: no-repeat;
 }
 
 .main-header{
@@ -39,7 +37,6 @@ header h2{
 	color:#fff;
 
 }
-
 
 
 .btn-info {background-color: #2196F3;
